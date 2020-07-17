@@ -7,7 +7,6 @@
 <script>
 import Cards from './components/card'
 import Home from './components/home'
-
 export default {
   name: 'App',
   components: {

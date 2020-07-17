@@ -1,8 +1,7 @@
 <template>
   <div>
     <h1>Card API</h1>
-    
-  <div style="display: flex;
+    <div style="display: flex;
     flex-wrap: wrap;
     justify-content: center;">
 <div v-for = "item in list" style="margin-right: 10px;">
